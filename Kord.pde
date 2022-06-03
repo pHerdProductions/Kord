@@ -1,7 +1,5 @@
 /*   Ralph Sabatino
      Kord: An Educational Music Game
-     CITA 495 - Final Capstone Project
-     Summer 2016
 */
 
 
