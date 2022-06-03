@@ -1,9 +1,6 @@
 # Kord
 <--An educational music game utilizing a MIDI keyboard to aid the user in learning music chords in different notations-->
 
-Hey guys, welcome to KORD!
-This was my project for my final capstone class to get my degree.
-
 --------------------------------------------------------------------------------------------
 1. Connect your MIDI keyboard and make sure it's turned on, ready to go.
 2. Open the application (the program should automatically connect to the MIDI)
