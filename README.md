@@ -2,6 +2,12 @@
 ### An educational music game utilizing a MIDI keyboard to aid the user in learning music chords in different notations
 
 --------------------------------------------------------------------------------------------
+#### Download
+[Kord v1.0 32-bit](https://mega.nz/file/Ff9XEYwR#lsGqWjNTfZFOnnLxiZspj2culw54ENDJ0z3As9XLN_U)
+
+[Kord v1.0 64-bit](https://mega.nz/file/daU1SYaL#BRbYKRr4PhsmX-GyADDkSlh8aXfSHsWEpsrGYEwQc0c)
+
+--------------------------------------------------------------------------------------------
 1. Connect your MIDI keyboard and make sure it's turned on, ready to go.
 2. Open the application (the program should automatically connect to the MIDI)
 3. Go to play, select what lesson, difficulty, and mode you'd like to play.
