@@ -1,5 +1,5 @@
 # Kord
-<--An educational music game utilizing a MIDI keyboard to aid the user in learning music chords in different notations-->
+### An educational music game utilizing a MIDI keyboard to aid the user in learning music chords in different notations
 
 --------------------------------------------------------------------------------------------
 1. Connect your MIDI keyboard and make sure it's turned on, ready to go.
@@ -26,4 +26,4 @@ I appreciate any feedback, support, ideas, etc...
 
 Good luck, have fun, but most importantly, learn more about music!
 
--Ralph Sabatino (pHerd)
+**-Ralph Sabatino (pHerd)**
